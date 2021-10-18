@@ -1,0 +1,9 @@
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\bin\Debug\netstandard2.0\GritLibrary.deps.json
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\bin\Debug\netstandard2.0\GritLibrary.dll
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\bin\Debug\netstandard2.0\GritLibrary.pdb
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\obj\Debug\netstandard2.0\GritLibrary.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\obj\Debug\netstandard2.0\GritLibrary.AssemblyInfo.cs
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\obj\Debug\netstandard2.0\GritLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\obj\Debug\netstandard2.0\GritLibrary.dll
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\obj\Debug\netstandard2.0\GritLibrary.pdb
+C:\Users\sandu\source\repos\DemoGritLogin\GritLibrary\obj\Debug\netstandard2.0\GritLibrary.csprojAssemblyReference.cache
